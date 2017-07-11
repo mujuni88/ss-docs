@@ -1,4 +1,7 @@
-# Awesom
+# Developer's Guide
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+> With great freedom, comes great responsibility. Do your work.
 
+## Table Of Contents
+* [Front-end](frontend/README.md)
+* [Recommendations](/recommendations/README.md)
